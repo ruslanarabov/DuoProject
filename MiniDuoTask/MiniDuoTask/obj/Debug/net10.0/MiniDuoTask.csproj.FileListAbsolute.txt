@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/DuoProject/MiniDuoTask/MiniDuoTask/bin/Debug/net10.0/MiniDuoTask
+/Users/macbook/Desktop/DuoProject/MiniDuoTask/MiniDuoTask/bin/Debug/net10.0/MiniDuoTask.deps.json
+/Users/macbook/Desktop/DuoProject/MiniDuoTask/MiniDuoTask/bin/Debug/net10.0/MiniDuoTask.runtimeconfig.json
+/Users/macbook/Desktop/DuoProject/MiniDuoTask/MiniDuoTask/bin/Debug/net10.0/MiniDuoTask.dll
+/Users/macbook/Desktop/DuoProject/MiniDuoTask/MiniDuoTask/bin/Debug/net10.0/MiniDuoTask.pdb
+/Users/macbook/Desktop/DuoProject/MiniDuoTask/MiniDuoTask/obj/Debug/net10.0/MiniDuoTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/DuoProject/MiniDuoTask/MiniDuoTask/obj/Debug/net10.0/MiniDuoTask.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/DuoProject/MiniDuoTask/MiniDuoTask/obj/Debug/net10.0/MiniDuoTask.AssemblyInfo.cs
+/Users/macbook/Desktop/DuoProject/MiniDuoTask/MiniDuoTask/obj/Debug/net10.0/MiniDuoTask.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/DuoProject/MiniDuoTask/MiniDuoTask/obj/Debug/net10.0/MiniDuoTask.sourcelink.json
+/Users/macbook/Desktop/DuoProject/MiniDuoTask/MiniDuoTask/obj/Debug/net10.0/MiniDuoTask.dll
+/Users/macbook/Desktop/DuoProject/MiniDuoTask/MiniDuoTask/obj/Debug/net10.0/refint/MiniDuoTask.dll
+/Users/macbook/Desktop/DuoProject/MiniDuoTask/MiniDuoTask/obj/Debug/net10.0/MiniDuoTask.pdb
+/Users/macbook/Desktop/DuoProject/MiniDuoTask/MiniDuoTask/obj/Debug/net10.0/MiniDuoTask.genruntimeconfig.cache
+/Users/macbook/Desktop/DuoProject/MiniDuoTask/MiniDuoTask/obj/Debug/net10.0/ref/MiniDuoTask.dll
