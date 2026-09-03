@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniDuoTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8a173928f243b65a1f9a4df5ca30bb0ac45f932")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+851fab817cd453211edc503ee2089bbc777c9a37")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniDuoTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniDuoTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
